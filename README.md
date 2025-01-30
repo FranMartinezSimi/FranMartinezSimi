@@ -1,11 +1,11 @@
 👋 Hi there! I'm Francisco Martínez, a backend developer passionate about building robust, scalable, and secure solutions. 🚀
 
-💼 Specialties:
+My favorite programing technologies
 
-- Languages: Node.js, Go, Java, Python (deepening my expertise).
-- Frameworks: FastAPI, Spring Boot, NestJS, Fiber.
-- Databases: PostgreSQL, MongoDB, MySQL.
-- Others: REST APIs, GraphQL, Microservices.
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 
 
 🔧 Skills:
