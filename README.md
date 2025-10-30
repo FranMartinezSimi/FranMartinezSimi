@@ -8,7 +8,7 @@ My favorite programing technologies
 
 👷‍♂️ I'm currently building
 
-![My project](https://sealdrop.xyz/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://sealdrop.xyz/)
 
 </div>
 🔧 Skills:
